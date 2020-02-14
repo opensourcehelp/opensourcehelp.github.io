@@ -708,7 +708,7 @@ header nav.navbar {border-radius: 0; padding: 0; }
 header nav.navbar-default, nav.navbar.bootsnav {border-bottom: 0;}
 header nav {width: 100%; top: 0px; z-index: 99; margin-bottom: 0; display: table; }
 header nav .nav-header-container {display: table-cell; vertical-align: middle; position: relative;}
-header nav .navbar-nav > li > a {font-size: 13px; font-weight: 300; margin:0 20px; padding: 5px 0px 5px; letter-spacing: 0.015em;}
+header nav .navbar-nav > li > a {font-size: 14px; font-weight: 300; margin:0 20px; padding: 5px 0px 5px; letter-spacing: 0.015em;}
 header nav .navbar-nav > li > a:hover, header nav .navbar-nav > li > a:focus, header nav .navbar-nav > li.active > a {background: transparent;}
 header nav .navbar-nav > li:last-child a { margin-right: 0;}
 .navbar-fixed-bottom, .navbar-fixed-top {z-index: 99}
@@ -795,7 +795,7 @@ header.header-appear nav.header-dark, header.sticky nav.navbar-fixed-top.header-
 .header-with-topbar.sticky.header-appear .navbar-top {top: 0; z-index: 99}
 
 /* dropdown menu */
-nav.navbar.navbar-default ul.nav > li > a {padding:26px 0; background: transparent; border-color: transparent; font-weight: 500;color: #ffffff;}
+nav.navbar.navbar-default ul.nav > li > a {padding:26px 0; background: transparent; border-color: transparent; font-weight: 600;color: #000;}
 .header-appear nav.navbar.navbar-default ul.nav > li > a {color: #151515;}
 nav.navbar.navbar-default ul.nav > li.dropdown > a.dropdown-toggle::after, nav.navbar.sidebar-nav ul.nav > li.dropdown > a.dropdown-toggle::after {content: ""; vertical-align: middle; position: relative; top: -1px; margin-top: 0; }
 nav.navbar.navbar-default ul li.dropdown ul.dropdown-menu > li:last-child {border-bottom: 0; border-bottom: 0;}
